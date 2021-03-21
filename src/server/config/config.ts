@@ -2,7 +2,7 @@
 process.env.NODE_ENV = process.env.NODE_ENV || 'dev';
 
 // Puerto
-process.env.PORT = process.env.PORT || '3000';
+process.env.PORT = '5000';
 
 //Base de datos
 let urlDB: string;
