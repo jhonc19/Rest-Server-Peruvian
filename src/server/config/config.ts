@@ -10,9 +10,9 @@ let userDB: string;
 let passDB: string;
 
 /* if (process.env.NODE_ENV === 'dev') { */
-    urlDB = '134.122.5.92';
+    urlDB = '127.0.0.1';
     userDB = 'admin';
-    passDB = '@Dm|n__|23456';
+    passDB = 'admin';
 /* } else {
     urlDB = process.env.MYSQL_URL!;
     userDB = process.env.MYSQL_USER!;
